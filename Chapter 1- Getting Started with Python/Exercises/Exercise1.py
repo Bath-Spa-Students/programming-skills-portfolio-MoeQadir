@@ -1,5 +1,5 @@
 # I used the print function to display the output
-# the triple cautation marks allows you to add spaces
+# the triple cautation marks allows you to type in a new line
 print ('''
 Twinkle, twinkle, little star,
 	How I wonder what you are! 
